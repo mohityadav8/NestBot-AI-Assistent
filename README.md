@@ -202,6 +202,7 @@ I've also studied the `apps.slack` codebase in detail before writing this plan â
 **Hiero Bot:** https://github.com/AnthropicBots/hiero-bot-py
 **Working demo PR:** https://github.com/AnthropicBots/hiero-bot-py/pull/7
 **Working demo issue:** https://github.com/AnthropicBots/hiero-bot-py/issues/6 
+
 ---
 
 *Closes / implements #908*
